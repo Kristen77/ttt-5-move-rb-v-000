@@ -10,4 +10,4 @@ move(input)
 
 board[index]
 
-
+move = [board, index, current_player = "X"]
