@@ -8,6 +8,6 @@ puts "Where would you like to go?"
 input = gets strip
 move(input)
 
-board[index]
 
 move = [board, index, current_player = "X"]
+ board[index] = current_player
