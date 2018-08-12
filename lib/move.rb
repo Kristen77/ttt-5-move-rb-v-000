@@ -10,7 +10,8 @@ end
 
 def input_to_index(user_input)
   user_input = ["1" - "9"]
-  puts #{user_input to_i}
+  puts #{Integer(user_input)}
+  puts #{user_input - 1}
 
 end
 def move(board, index, user_marker = "X")
