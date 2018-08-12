@@ -8,4 +8,6 @@ board = [" ", " ", " "," ", " ", " "," ", " ", " ",]
 input = gets strip
 move(input)
 
+board[index]
+
 
