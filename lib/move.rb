@@ -10,8 +10,8 @@ end
 
 def input_to_index(user_input)
   user_input = ["1" - "9"]
-  puts #{user_input = "5".}
-  puts #{user_input - 1}
+  puts #{user_input = "5".to_i}
+
 
 end
 def move(board, index, user_marker = "X")
