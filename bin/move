@@ -10,4 +10,4 @@ move(input)
 
 board[index]
 
-
+board
