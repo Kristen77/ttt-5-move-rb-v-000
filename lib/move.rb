@@ -10,7 +10,7 @@ end
 
 def input_to_index(user_input)
   user_input = ["1" - "9"]
-  puts #{Integer(user_input)}
+  puts #{user_input = "5".}
   puts #{user_input - 1}
 
 end
